@@ -1,0 +1,2 @@
+lab1:paquete0
+-DCATKIN_DEVEL_PREFIX=/home/yero/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/yero/catkin_ws/install -G Unix Makefiles

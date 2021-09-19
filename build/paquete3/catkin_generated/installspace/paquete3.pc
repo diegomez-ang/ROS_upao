@@ -1,0 +1,8 @@
+prefix=/home/yero/catkin_ws/install
+
+Name: paquete3
+Description: Description of paquete3
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

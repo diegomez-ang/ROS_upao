@@ -1,0 +1,8 @@
+prefix=/home/yero/catkin_ws/devel
+
+Name: paquete0
+Description: Description of paquete0
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
